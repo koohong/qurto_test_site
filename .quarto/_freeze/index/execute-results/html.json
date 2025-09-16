@@ -1,0 +1,17 @@
+{
+  "hash": "4da755e56d8e0234206c0843178e7392",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Global Happiness\"\nexecute:\n  echo: false\n  warning: false\n  message: false\n---\n\n<!-- **USING R?** Remove the two Python chunks -->\n<!-- **Using Python?** Remoe the R chunks and un-comment the Python code --> \n\nData from: [World Happiness Report](https://www.worldhappiness.report/).\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/global-trends-1.png){width=672}\n:::\n:::\n\n\n\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
